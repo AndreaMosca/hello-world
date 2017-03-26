@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+Hi Humans!
+
+I'm an italian front end develpover and musician.
+I love to write websites' css!
